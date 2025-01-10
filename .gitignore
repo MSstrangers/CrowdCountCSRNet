@@ -10,8 +10,13 @@ jhu_crowd_v2.0/
 lightning_logs/
 
 # Checkpoints directory
-checkpoints
+checkpoints/
+ckpts/
 
 .ipynb_checkpoints/
 
 __pycache__/
+
+.mypy_cache
+
+/data
